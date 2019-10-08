@@ -2,5 +2,5 @@
 voidmain()
 {
 print("hello.c");
-print("this is a basic c program")
+print("this is a basic c program");
 }
